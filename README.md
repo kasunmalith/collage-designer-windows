@@ -130,4 +130,3 @@ The interface uses WPF, so this Windows project does not build as a native Mac a
 ---
 
 Software Development by [Energetic Edge (Pvt) Ltd](https://www.energeticedge.lk/)
-

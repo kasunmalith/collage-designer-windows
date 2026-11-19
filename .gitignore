@@ -1,0 +1,27 @@
+# Build and IDE output
+bin/
+obj/
+Release/
+.vs/
+.idea/
+*.user
+*.suo
+*.pdb
+
+# Local projects, training data, and photo exports
+*.collageproject
+*.albumproject
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.jpg
+*.jpeg
+*.png
+*.psd
+*.zip
+*.dmg
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
